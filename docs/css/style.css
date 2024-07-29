@@ -9,7 +9,7 @@
     border: 1px solid #ccc;
 }
 
-.content .workex .edex{
+.content .workex .edex .projects{
     padding: 0 10px;
     display: none;
     overflow: hidden;
@@ -21,6 +21,10 @@
 }
 
 .w3-container .workex{
+    display: none;
+}
+
+.w3-container .projects{
     display: none;
 }
 
